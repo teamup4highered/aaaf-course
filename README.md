@@ -1,5 +1,5 @@
 # AWS Amplify And Flutter Course work
-
+```
 $ flutter doctor -v
 [√] Flutter (Channel stable, 2.5.3, on Microsoft Windows [Version 10.0.19043.1288], locale en-US)
     • Flutter version 2.5.3 at C:\Users\vgotc\flutter_windows_1.22.5-stable\flutter
@@ -44,3 +44,4 @@ $ flutter doctor -v
     • Edge (web)   • edge   • web-javascript • Microsoft Edge 94.0.992.50
 
 • No issues found!
+```
