@@ -10,6 +10,7 @@ The steps below assume that
 * Android emulator is started in VS Code
 * Flutter and GitHub is already initialized.
 
+Steps to run this app:
 ```
 git clone https://github.com/teamup4highered/aaaf-course.git
 cd aaaf-course/counter_app

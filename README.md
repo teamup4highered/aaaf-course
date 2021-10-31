@@ -1,4 +1,9 @@
 # AWS Amplify And Flutter Course work
+
+## Purpose
+This repository is a portfolio repository for AWS Amplify and Flutter Course. Each folder contains app developed as part of the course work.
+
+## Module 0 - prerequisites
 ```
 $ flutter doctor -v
 [√] Flutter (Channel stable, 2.5.3, on Microsoft Windows [Version 10.0.19043.1288], locale en-US)
