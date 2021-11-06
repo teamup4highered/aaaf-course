@@ -1,6 +1,6 @@
 # cheeseapp v2
 ## App description
-This app is for saving recipes to make cheese.
+This app is a simple ToDo list for recipes to make cheese.
 
 ## How to run the app
 Start android emulator and then type in a VS Code bashd terminal:
