@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cheeseapp-dev-12036-authRole",
+      "UnauthRoleArn": "arn:aws:iam::269523759166:role/amplify-cheeseapp-dev-12036-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::269523759166:role/amplify-cheeseapp-dev-12036-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cheeseapp-dev-12036-deployment",
+      "UnauthRoleName": "amplify-cheeseapp-dev-12036-unauthRole",
+      "StackName": "amplify-cheeseapp-dev-12036",
+      "StackId": "arn:aws:cloudformation:us-east-1:269523759166:stack/amplify-cheeseapp-dev-12036/eb092430-3ab1-11ec-8fd5-0ee3d961ad53",
+      "AmplifyAppId": "d3qapumhhupa8g"
+    }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cheeseapp-staging-23117-authRole",
+      "UnauthRoleArn": "arn:aws:iam::269523759166:role/amplify-cheeseapp-staging-23117-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::269523759166:role/amplify-cheeseapp-staging-23117-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cheeseapp-staging-23117-deployment",
+      "UnauthRoleName": "amplify-cheeseapp-staging-23117-unauthRole",
+      "StackName": "amplify-cheeseapp-staging-23117",
+      "StackId": "arn:aws:cloudformation:us-east-1:269523759166:stack/amplify-cheeseapp-staging-23117/cd6c7910-3604-11ec-927f-0e8cfc7da511",
+      "AmplifyAppId": "d3qapumhhupa8g"
+    }
+  }
+}

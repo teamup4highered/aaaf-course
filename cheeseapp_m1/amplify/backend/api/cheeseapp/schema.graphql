@@ -1,0 +1,7 @@
+type CheeseRecipe @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  cheeseName: String!
+  myNotes: String
+  cheeseStatus: String!
+}
+ 
